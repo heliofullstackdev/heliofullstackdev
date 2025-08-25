@@ -1,4 +1,4 @@
-<br/>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -93,4 +93,3 @@
     </td>
  </tr>
 </table>
-<br><br>
