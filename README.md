@@ -3,11 +3,11 @@
   <!-- Frontend -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
@@ -23,15 +23,15 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
     <td align="center" width="96">
@@ -43,11 +43,11 @@
   <!-- Styling / UI / Design -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -55,23 +55,23 @@
       <br>SasS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="MUI" />
+      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
       <br>MUI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
@@ -83,11 +83,11 @@
   <!-- Backend -->
   <tr>    
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -103,7 +103,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
@@ -111,7 +111,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
@@ -122,7 +122,7 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
     <td align="center" width="96">
@@ -134,29 +134,29 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="npm" />
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>npm
     </td>
     <td align="center" width="96">
       <!-- fallback / external icon for Shopify -->
-      <img src="https://img.icons8.com/color/96/000000/shopify.png" width="65" height="65" alt="Shopify" />
+      <img src="https://img.icons8.com/color/96/000000/shopify.png" width="48" height="48" alt="Shopify" />
       <br>Shopify
     </td>
     <td align="center" width="96">
       <!-- fallback / external icon for Wix -->
-      <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>    
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="React Native" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="React Native" />
       <br>React Native
     </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="AI" />
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI" />
       <br>Artificial Intelligence
     </td>
   </tr>
